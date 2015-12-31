@@ -1,4 +1,4 @@
-# list-ranker
+# human-sort
 
 CLI tool that ranks a list of items by prompting the user to compare two at a time.
 
@@ -6,7 +6,7 @@ CLI tool that ranks a list of items by prompting the user to compare two at a ti
 
 To install from npm, run
 
-`npm install -g list-ranker`
+`npm install -g human-sort`
 
 ## Usage
 
