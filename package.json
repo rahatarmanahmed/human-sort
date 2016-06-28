@@ -2,7 +2,7 @@
   "name": "human-sort",
   "main": "bin/index.js",
   "version": "0.0.2",
-  "description": "CLI tool that uploads text to hastebin",
+  "description": "CLI tool that ranks a list of items by prompting the user to compare two at a time.",
   "author": "Rahat Ahmed",
   "preferGlobal": "true",
   "bin": {
