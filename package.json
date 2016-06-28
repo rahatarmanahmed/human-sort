@@ -1,7 +1,7 @@
 {
   "name": "human-sort",
   "main": "bin/index.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "CLI tool that ranks a list of items by prompting the user to compare two at a time.",
   "author": "Rahat Ahmed",
   "preferGlobal": "true",
