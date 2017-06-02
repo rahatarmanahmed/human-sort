@@ -1,5 +1,7 @@
 # human-sort
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rahatarmanahmed/human-sort.svg)](https://greenkeeper.io/)
+
 CLI tool that ranks a list of items by prompting the user to compare two at a time.
 
 ## Installation
